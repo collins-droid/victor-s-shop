@@ -1,12 +1,12 @@
 const firebaseConfig = {
-	apiKey: 'AIzaSyBl3_Zllqe8qhN93PaVQzCyeowxq-kruD0',
-	authDomain: 'aligo-test.firebaseapp.com',
-	databaseURL: 'https://aligo-test.firebaseio.com',
-	projectId: 'aligo-test',
-	storageBucket: 'aligo-test.appspot.com',
-	messagingSenderId: '679717332587',
-	appId: '1:679717332587:web:bc75f364e10940a546f32e',
-	measurementId: 'G-XWNJ82NYRG'
+	apiKey: "AIzaSyA5MSqiOu0mPQDzN2xwIU2IHI8HGWndFdI",
+  authDomain: "iprosperzm-store.firebaseapp.com",
+  databaseURL: "https://iprosperzm-store-default-rtdb.firebaseio.com",
+  projectId: "iprosperzm-store",
+  storageBucket: "iprosperzm-store.appspot.com",
+  messagingSenderId: "327817639749",
+  appId: "1:327817639749:web:e0346348d2dab255bf302c",
+  measurementId: "G-7THW2V8F99"
 };
 
 export default firebaseConfig;
